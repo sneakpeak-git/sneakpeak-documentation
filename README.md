@@ -24,12 +24,12 @@ Project JIRA board: https://abandic.atlassian.net/browse/SNEAK
 
 # Sprint recaps
 
-##First sprint
+## First sprint
 
 The first sprint did not have a determined date and during it I didn't really do much since I was focusing heavily on my group project. That is not to dismiss the importance of the individual project however, it was just a matter of priority distribution and I know I need more focus on the individual project moving forward.
 During this sprint I did research on the stack I would like to use, and I settled on Expo for frontend and Express.js for backend, as I really enjoyed using React Native in my group project and wanted to improve my skills. Expo is a React Native framework, it is very popular and easy to work with and using it is going to mean better maintainability of the project, as it is not just popular but also cross platform, being able to build web, Android and iOS apps with the same codebase. Express.js is a Node.js web application framework, also really popular.
 
-##Second sprint
+## Second sprint
 
 My second sprint marked the actual beginning of my individual project work, both codebase and documentation wise. During this sprint, my main goal was to estabilish a good foundation for my documentation, both on GitHub and JIRA. I created repos for different components in my GitHub organization, set up a profile page and wrote descriptions of features and instructions on how to set up the development requirement and run the project. Additionally, I started to organize work by user stories and tasks on JIRA. I started coding the frontend app, only using mock data at the moment.
 
