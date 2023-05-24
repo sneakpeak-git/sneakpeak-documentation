@@ -18,7 +18,7 @@
 
 # Intro
 
-This is a collection of all documentation regarding my individual project. Besides documents for SneakPeak, this repo will also host my individual research papers.
+This is a collection of all documentation regarding my individual project. Besides documents for SneakPeak, this repo will also host my individual research papers, hosted in the [research-papers](https://github.com/sneakpeak-git/sneakpeak-documentation/tree/main/research-papers) folder.
 
 Project JIRA board: https://abandic.atlassian.net/browse/SNEAK
 
