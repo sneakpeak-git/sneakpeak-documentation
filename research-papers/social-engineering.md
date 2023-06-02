@@ -50,7 +50,7 @@ As technology advances, so too will the sophistication of social engineering att
 
 Further, the advent of quantum computing could pose new challenges for cybersecurity. On the one hand, it holds the promise of virtually unbreakable encryption; on the other, it could render current cryptographic methods obsolete, potentially creating new vulnerabilities for social engineering attacks to exploit.
 
-Social engineering attacks are also likely to become more personalized and targeted as more data becomes available about individuals and organizations. This could lead to an increase in "whaling"—attacks specifically targeted at high-level executives or important individuals within an organization.
+Social engineering attacks are also likely to become more personalized and targeted as more data becomes available about individuals and organizations. This could lead to an increase in "whaling" attacks.
 
 ## Conclusion
 
@@ -63,5 +63,5 @@ Ultimately, the fight against social engineering is a battle not just of technol
 
 ## Sources
 
-[Wikipedia - Social Engineering (Security)](https://en.wikipedia.org/wiki/Social_engineering_(security))
+[Wikipedia - Social Engineering (Security)](https://en.wikipedia.org/wiki/Social_engineering_(security))   
 [ChatGPT - OpenAI Chat](https://chat.openai.com/)
