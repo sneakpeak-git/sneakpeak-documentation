@@ -20,8 +20,6 @@
 
 This is a collection of all documentation regarding my individual project. Besides documents for SneakPeak, this repo will also host my individual research papers, hosted in the [research-papers](https://github.com/sneakpeak-git/sneakpeak-documentation/tree/main/research-papers) folder.
 
-Project JIRA board: https://abandic.atlassian.net/browse/SNEAK
-
 # Sprint recaps
 
 ## First sprint
@@ -35,11 +33,27 @@ My second sprint marked the actual beginning of my individual project work, both
 
 For the next sprints, I am planning to make them shorter and more feature-packed, since I think I can handle the workload now that I got the hang of the documentation and tracking my progress. I want to speed up my workflow since the semester is coming to a close relatively and I would like to prove myself. I will be keeping the latest self-evaluation grades below this.
 
+## Third sprint
+
+During this sprint I started working on the Sneaker API and touched up the frontend app. Data API fetches sneakers from a MySQL database and returns them in a legible format. Learning how to use Node with Sequelize to get the database data was the main focus point of this sprint.
+
+## Fourth sprint
+
+This sprint was all about CI/CD. I containerized my Data API using Docker Compose along with a MySQL database and automatized the process of storing database credentials and creating tables, so that it can be done without user input in the Docker environment. I also created a basic test workflow with GitHub Actions that runs a few integration tests using Mocha and Chai.
+
+## Fifth sprint
+
+Sprint five is where I perfected the CI process by improving the test workflow, adding code coverage, linting using ESLint and Prettier and code analysis with SonarCloud. I learned a lot about test workflows and how to make sure the app works in a fresh environment on every single run.
+
+## Sixth sprint
+
+This is the final sprint and perhaps the most feature-packed one. I switched to React from Expo for frontend because of integration issues with SSO and the Expo Go app. I implemented SSO using Firebase Authentication as well as integrated Cypress for frontend E2E testing. Some improvements were made to the Data API too, with it now being able to return individual sneakers and handle errors better. A lot of work has been done on the documentation side of things to wrap up the semester nicely.
+
 # Self-assessment
 
 The following table contains my views on the current standing of the project regarding different learning outcomes.
 
-Rating go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*' and finally to '*Advanced*', on a scale of 0 to 5. 
+Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*' and finally to '*Advanced*', on a scale of 1 to 5. 
 
 ## Web Application
 
