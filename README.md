@@ -64,10 +64,14 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>--</td>
+    <td>Proficient</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
+    <td>
+        --
+    </td>
+   <th><strong>Proof</strong></th>
     <td>
         --
     </td>
@@ -83,10 +87,14 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>--</td>
+    <td>Proficient-Advanced</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
+    <td>
+        --
+    </td>
+   <th><strong>Proof</strong></th>
     <td>
         --
     </td>
@@ -102,10 +110,14 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>--</td>
+    <td>Proficient</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
+    <td>
+        --
+    </td>
+   <th><strong>Proof</strong></th>
     <td>
         --
     </td>
@@ -121,10 +133,14 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>--</td>
+    <td>Advanced</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
+    <td>
+        --
+    </td>
+   <th><strong>Proof</strong></th>
     <td>
         --
     </td>
@@ -140,10 +156,14 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>--</td>
+    <td>Proficient</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
+    <td>
+        --
+    </td>
+   <th><strong>Proof</strong></th>
     <td>
         --
     </td>
@@ -159,10 +179,14 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>--</td>
+    <td>Proficient</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
+    <td>
+        --
+    </td>
+   <th><strong>Proof</strong></th>
     <td>
         --
     </td>
@@ -178,10 +202,14 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>--</td>
+    <td>Proficient</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
+    <td>
+        --
+    </td>
+   <th><strong>Proof</strong></th>
     <td>
         --
     </td>
@@ -197,10 +225,14 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>--</td>
+    <td>Proficient</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
+    <td>
+        --
+    </td>
+   <th><strong>Proof</strong></th>
     <td>
         --
     </td>
