@@ -71,6 +71,8 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
     <td>
         --
     </td>
+   </tr>
+ <tr>
    <th><strong>Proof</strong></th>
     <td>
         --
@@ -94,6 +96,8 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
     <td>
         --
     </td>
+   </tr>
+ <tr>
    <th><strong>Proof</strong></th>
     <td>
         --
@@ -117,6 +121,8 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
     <td>
         --
     </td>
+   </tr>
+ <tr>
    <th><strong>Proof</strong></th>
     <td>
         --
@@ -140,6 +146,8 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
     <td>
         --
     </td>
+ </tr>
+ <tr>
    <th><strong>Proof</strong></th>
     <td>
         --
@@ -163,6 +171,8 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
     <td>
         --
     </td>
+   </tr>
+ <tr>
    <th><strong>Proof</strong></th>
     <td>
         --
@@ -186,6 +196,8 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
     <td>
         --
     </td>
+   </tr>
+ <tr>
    <th><strong>Proof</strong></th>
     <td>
         --
@@ -209,6 +221,8 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
     <td>
         --
     </td>
+   </tr>
+ <tr>
    <th><strong>Proof</strong></th>
     <td>
         --
@@ -232,6 +246,8 @@ Ratings go from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*
     <td>
         --
     </td>
+   </tr>
+ <tr>
    <th><strong>Proof</strong></th>
     <td>
         --
